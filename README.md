@@ -19,13 +19,9 @@ Reference - https://www.andrewhoefling.com/Blog/Post/xamarin-forms-shell-customi
 ![Android](https://github.com/ijeong1/XamarinForms-CustomTabbarRenderer-Sample/blob/main/screenshot_android.png)
 
 # Adding a required reference
-- iOS
+- iOS: Currently an additional step is required for Android Phone projects
 
-Currently an additional step is required for Android Phone projects
-
-- Android
-
-Add "Xamarin.Android.Support.Design" reference from nuget.org
+- Android: Add "Xamarin.Android.Support.Design" reference from nuget.org
 
 # How to use
 AppShell file
